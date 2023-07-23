@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xuan8888z
+- 👋 Hi, I’m @kojingxuan28
 - 👀 I’m interested in playing game
-- 🌱 I’m currently learning html css javascript
+- 🌱 I’m currently learning scala
 - 💞️ I’m looking to collaborate on nothing 
-- 📫 How to reach me on here
+- 📫 jingxuan2811@gmail.com
 
 <!---
 xuan8888z/xuan8888z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
